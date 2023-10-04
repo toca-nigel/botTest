@@ -1,3 +1,6 @@
+'''
+This class represents the space type of the soccer training game. It contains properties to store the length, intervals, ball speed, target colors, and target locations.
+'''
 export class Space {
   private length: string;
   private intervals: number;

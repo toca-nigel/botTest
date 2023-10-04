@@ -1,3 +1,6 @@
+'''
+This class represents a soccer training game. It contains references to the space, player, and device objects, and provides methods to set configurations and start the game.
+'''
 import { Space } from './space';
 import { Player } from './player';
 import { Device } from './device';
