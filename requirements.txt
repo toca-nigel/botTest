@@ -1,0 +1,10 @@
+
+In this example, we have included the following dependencies:
+
+- `typescript`: The TypeScript compiler.
+- `express`: A web framework for Node.js that will be used to build the server-side of the web app.
+- `body-parser`: A middleware for parsing incoming request bodies in the server.
+- `cors`: A middleware for enabling Cross-Origin Resource Sharing (CORS) in the server.
+
+To install these dependencies, you can run the following command in the project directory:
+
